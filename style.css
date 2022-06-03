@@ -364,3 +364,8 @@ ul.list-inline {
 i.fa-brands {
   padding: 15px;
 }
+
+.col-md-4 col-lg-4 text-center:nth-child(2) {
+  display:flex;
+  flex-direction:row-reverse ;
+}
