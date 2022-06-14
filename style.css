@@ -243,13 +243,13 @@ html {
 
 .row-3cot .col-lg-4 {
     padding: 56px 70px;
-    background: rgba(196, 196, 196, 0.1);
+    
     border-radius: 30px;
 }
 
 .row-3-cot p {
     width: 247px;
-    height: 322.97px;
+    height: 265px;
     font-family: 'SF Pro Display';
     font-style: normal;
     font-weight: 400;
@@ -259,6 +259,35 @@ html {
 
 
     color: #000000;
+    margin:30px;
+}
+
+.nen {
+    width: 300px;
+    height: 460px;
+    background: rgba(196, 196, 196, 0.1);
+    border-radius: 30px;
+}
+
+span {
+    padding-left: 40px;
+    font-family: 'SF Pro Display';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 26px;
+/* identical to box height, or 162% */
+
+
+color: #000000;
+
+}
+
+.nen img {
+   
+    margin: 30px;
+    margin-bottom: 0px;
+
 }
 
 
